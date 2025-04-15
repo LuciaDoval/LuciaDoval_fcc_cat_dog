@@ -2,13 +2,11 @@
 
 This project is part of the [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/) course by **freeCodeCamp**. The goal is to build a **convolutional neural network (CNN)** using **TensorFlow 2.0** and **Keras** that can classify images of cats and dogs with at least **63% accuracy**.
 
-> ✅ Extra credit if you reach **70% accuracy**!
-
 ---
 
 ## 📌 Project Overview
 
-You’ll build and train a CNN that can distinguish between images of cats and dogs using a structured dataset. You'll also implement image preprocessing, data augmentation, training/validation logic, and final evaluation through predictions.
+I have build and trained a CNN that can distinguish between images of cats and dogs using a structured dataset. I have also implemented image preprocessing, data augmentation, training/validation logic, and final evaluation through predictions.
 
 This project runs in **Google Colaboratory** and involves working directly with Python and TensorFlow code in an interactive notebook environment.
 
@@ -40,7 +38,7 @@ cats_and_dogs/
 
 ---
 
-## 🧠 What You'll Do
+## 🧠 What I did
 
 | Step | Description |
 |------|-------------|
@@ -69,17 +67,6 @@ cats_and_dogs/
 ## 🎯 Goal
 
 Build a model that classifies unseen images of cats and dogs with **≥63% accuracy**. If your model performs better, even better!
-
----
-
-## 📎 Submission
-
-Once your model passes the test:
-
-1. Save a copy of your Google Colab notebook.
-2. Share the **Colab link** (make sure link sharing is turned on).
-3. Example link:  
-   `https://colab.research.google.com/drive/your-notebook-id`
 
 ---
 
