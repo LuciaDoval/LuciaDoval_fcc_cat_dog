@@ -12,32 +12,6 @@ This project runs in **Google Colaboratory** and involves working directly with 
 
 ---
 
-## 📁 Dataset Structure
-
-After downloading and unzipping, the dataset has the following structure:
-
-```
-cats_and_dogs/
-│
-├── train/
-│   ├── cats/
-│   └── dogs/
-│
-├── validation/
-│   ├── cats/
-│   └── dogs/
-│
-└── test/
-    ├── 1.jpg
-    ├── 2.jpg
-    └── ...
-```
-
-- **Training** and **validation** sets are labeled and divided into subfolders.
-- **Test** set contains unlabeled images used for final predictions.
-
----
-
 ## 🧠 What I did
 
 | Step | Description |
